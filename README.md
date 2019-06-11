@@ -11,7 +11,7 @@ https://en.wikipedia.org/wiki/Boggle
 
 'Boggle.py' is the main program here, so run this with python to play the game in the GUI.
 
-### Here's how the game works.
+### Here's how the game works:
 
 You will be shown a 4x4 grid of letters.
 You must make as many words as you can within the time limit.
