@@ -9,7 +9,7 @@ https://en.wikipedia.org/wiki/Boggle
 
 ## Instructions
 
-'Boggle.py' is the main program here, so run this with python to play the game in the GUI.
+'Boggle.py' is the main program, so run this with python to play the game in the GUI.
 
 ### Here's how the game works:
 
