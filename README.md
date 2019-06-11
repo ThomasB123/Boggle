@@ -4,15 +4,14 @@
 
 This is my A Level Computer Science Project
 
-It is a graphical user interface based computer game based on the board game 'Boggle'.
+It is a digital version of the board game 'Boggle' created with python and using a graphical user interface.
 https://en.wikipedia.org/wiki/Boggle
 
 ## Instructions
 
-To play the game, download this repository and uncompress it.
-In the command line, go to the appropriate folder, the use 'python Boggle.py' ('python3 Boggle.py' is python3 is not your default version of python) to start the game.
+'Boggle.py' is the main program here, so run this with python to play the game in the GUI.
 
 ## Libraries
 
-This game makes use of the 'pygame_functions.py' library created by Steve Paget, and can be found here:
+I have made use of the 'pygame_functions' library, which is a set of functions to make using pygame easier, and was created by Steve Paget:
 https://github.com/StevePaget/Pygame_Functions
