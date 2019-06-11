@@ -22,13 +22,6 @@ Words can only be made according to the following rules:
 2. Words must contain at least three letters.
 3. No letter cube may be used more than once within a single word
 
-Letters:           Points: 
-3 or 4 letters   1 point
-5 letters          2 points
-6 letters          3 points
-7 letters          5 points
-8+ letters        11 points
-
 ## Libraries
 
 I have made use of the 'pygame_functions' library, which is a set of functions to make using pygame easier, and was created by Steve Paget:
