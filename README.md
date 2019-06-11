@@ -4,8 +4,8 @@
 
 This is my A Level Computer Science Project
 
-It is a digital version of the board game 'Boggle' created with python and using a graphical user interface.
-https://en.wikipedia.org/wiki/Boggle
+It is a digital version of the board game 'Boggle', but it can be played in different languages.
+The original boggle game: https://en.wikipedia.org/wiki/Boggle
 
 ## Instructions
 
