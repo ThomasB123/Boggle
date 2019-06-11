@@ -8,7 +8,7 @@ It is a digital version of the board game 'Boggle', but it can be played in diff
 The original boggle game: https://en.wikipedia.org/wiki/Boggle
 
 Documentation can be viewed here:
-https://docs.google.com/document/d/e/2PACX-1vQjl6jhLB9ZUTQmvvaSR-sRM03WH-ISI715fpW4RGsPaSKELeqhrSQp6FoJ1bTxuNQ4NbPGZLA8thD7/pub
+https://docs.google.com/document/d/1R9UZF4bTrUrjvSt0qsnWPPnWlTUurh8nYRVmbJVPEWo/edit?usp=sharing
 
 ## Instructions
 
