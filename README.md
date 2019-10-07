@@ -4,7 +4,10 @@
 
 This is my A Level Computer Science Project
 
-It is a digital version of the board game 'Boggle', but it can be played in different languages.
+It is a digital version of the board game 'Boggle' that can be played in different languages.
+The purpose of this game is to educate high school modern foreign languages students at my school in an enjoyable way.
+The end user for this project was the modern languages department at my school.
+
 The original boggle game: https://en.wikipedia.org/wiki/Boggle
 
 Documentation can be viewed here:
